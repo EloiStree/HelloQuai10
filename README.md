@@ -8,7 +8,7 @@ Lors d'une formation Technocité avec les étudiants, j'ai eu un moment de déte
 
 Envahi par l'idée de piloter un petit navire dans une ambiance relaxante, juste pour le plaisir, j'ai proposé aux étudiants de s'approprier cet espace. Le lieu et le contexte se prêtent parfaitement à l'apprentissage des bases d'Unity3D dans le cadre du Quest 3.
 
-Je vous invite donc à nous rejoindre virtuellement à Charleroi 🧙‍♂️. Si un jour vous êtes de passage, sortez votre téléphone ou votre Quest, et venez profiter de l'instant.
+Je vous invite donc à nous rejoindre virtuellement à Charleroi 🧙‍♂️. Si un jour vous êtes de passage, sortez votre téléphone ou votre Quest, et venez profiter de l'instant. Et profiter d'une bière 🍻 😋.
 
 Amicalement,  
 Éloi
@@ -26,7 +26,7 @@ During a Technocité training with the students, I had a relaxing moment one eve
 
 Inspired by the idea of casually piloting a small boat just for fun, I suggested to the students that they make this place their own. The location and context are ideal for learning the basics of Unity3D using the Quest 3.
 
-I invite you to join us virtually in Charleroi 🧙‍♂️. If you ever visit, take out your phone or your Quest, and come enjoy the moment.
+I invite you to join us virtually in Charleroi 🧙‍♂️. If you ever visit, take out your phone or your Quest, and come enjoy the moment. And drink a beer 🍻 😋.
 
 May the code be with you,  
 Éloi
@@ -38,11 +38,11 @@ May the code be with you,
 # Version of 26 09 2024: Nid Street AR
 
 Raw Trailer:
-- Add here video
+- _Add here video_
 
 Download game:
 - https://yodan1006.itch.io/chillboat
 
 
-
+Credit: _Ajouter les noms ici_
 
